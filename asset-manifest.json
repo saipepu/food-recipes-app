@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/food_recipes_app/static/css/main.37c15474.chunk.css",
-    "main.js": "/food_recipes_app/static/js/main.ce53689a.chunk.js",
-    "main.js.map": "/food_recipes_app/static/js/main.ce53689a.chunk.js.map",
-    "runtime-main.js": "/food_recipes_app/static/js/runtime-main.c9be702b.js",
-    "runtime-main.js.map": "/food_recipes_app/static/js/runtime-main.c9be702b.js.map",
-    "static/js/2.2f61d44a.chunk.js": "/food_recipes_app/static/js/2.2f61d44a.chunk.js",
-    "static/js/2.2f61d44a.chunk.js.map": "/food_recipes_app/static/js/2.2f61d44a.chunk.js.map",
-    "index.html": "/food_recipes_app/index.html",
-    "static/css/main.37c15474.chunk.css.map": "/food_recipes_app/static/css/main.37c15474.chunk.css.map",
-    "static/js/2.2f61d44a.chunk.js.LICENSE.txt": "/food_recipes_app/static/js/2.2f61d44a.chunk.js.LICENSE.txt",
-    "static/media/Hero.52cf38b2.png": "/food_recipes_app/static/media/Hero.52cf38b2.png",
-    "static/media/Menu.css": "/food_recipes_app/static/media/banner.c127e3b7.png"
+    "main.css": "/food-recipes-app/static/css/main.8d1712c0.chunk.css",
+    "main.js": "/food-recipes-app/static/js/main.d255c682.chunk.js",
+    "main.js.map": "/food-recipes-app/static/js/main.d255c682.chunk.js.map",
+    "runtime-main.js": "/food-recipes-app/static/js/runtime-main.81102991.js",
+    "runtime-main.js.map": "/food-recipes-app/static/js/runtime-main.81102991.js.map",
+    "static/js/2.2f61d44a.chunk.js": "/food-recipes-app/static/js/2.2f61d44a.chunk.js",
+    "static/js/2.2f61d44a.chunk.js.map": "/food-recipes-app/static/js/2.2f61d44a.chunk.js.map",
+    "index.html": "/food-recipes-app/index.html",
+    "static/css/main.8d1712c0.chunk.css.map": "/food-recipes-app/static/css/main.8d1712c0.chunk.css.map",
+    "static/js/2.2f61d44a.chunk.js.LICENSE.txt": "/food-recipes-app/static/js/2.2f61d44a.chunk.js.LICENSE.txt",
+    "static/media/Hero.52cf38b2.png": "/food-recipes-app/static/media/Hero.52cf38b2.png",
+    "static/media/Menu.css": "/food-recipes-app/static/media/banner.c127e3b7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9be702b.js",
+    "static/js/runtime-main.81102991.js",
     "static/js/2.2f61d44a.chunk.js",
-    "static/css/main.37c15474.chunk.css",
-    "static/js/main.ce53689a.chunk.js"
+    "static/css/main.8d1712c0.chunk.css",
+    "static/js/main.d255c682.chunk.js"
   ]
 }
